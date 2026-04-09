@@ -1,1 +1,1 @@
-Criar solicitação demerge entre branchs 
+Criar solicitação de merge entre branchs 
