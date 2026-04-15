@@ -1,0 +1,1 @@
+A extensao GitHub Pull Request é usada para gerenciamento PRs sem sair do VS code.
